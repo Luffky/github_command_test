@@ -10,4 +10,9 @@ public class MyTestBean {
     public void setTestStr(String testStr) {
         this.testStr = testStr;
     }
+
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+
 }
